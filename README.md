@@ -6,6 +6,9 @@ Forth for ARM Cortex-M — for the STM32F407VG Discovery board, 168 MHz,
 
 FISH is an F83-derived Forth by Clyde W. Phillips Jr. and A-TEAM FORTH.
 
+<img width="643" height="357" alt="image" src="https://github.com/user-attachments/assets/d4af7f74-49cd-4b8e-a46a-c12212eff8e2" />
+
+
 ## Build
 
 Requires `arm-none-eabi-gcc`, `arm-none-eabi-objcopy`, `arm-none-eabi-nm`,
